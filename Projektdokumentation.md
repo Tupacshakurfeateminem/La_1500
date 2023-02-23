@@ -22,8 +22,17 @@ Daisy: Ben Müller,John Broder, Brandon Spaqi, Christian Aeschlimann
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+|   1  |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
+|   2  |                 |      | Als ein Benutzer möchte ich dass, man endlos rennen kann, damit ich spass habe. | 
+|   3  |                 |      | Als ein Benutzer möchte ich dass, man verfolgt wird, damit ich gestresst wird. |
+|   4  |                 |      | Als ein Benutzer möchte ich dass, man gute Musik hört wird, damit ich länger konzentriert bleibe. |
+|   5  |                 |      | Als ein Benutzer möchte ich dass, man verschiedene Schwierigkeitsstufen auswählen kann. |
+|   6  |                 |      |                                    |
+|   7  |                 |      |                                    |
+|   8  |                 |      |                                    |
+|   9  |                 |      |                                    |
+|  10  |                 |      |                                    |
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
