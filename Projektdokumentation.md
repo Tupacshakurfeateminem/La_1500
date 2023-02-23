@@ -45,6 +45,8 @@ Wir wollen mithilfe von Unity einen Endless-Runner programmieren, bei dem man ve
 
 ### 1.4 Diagramme
 ![image](https://user-images.githubusercontent.com/111044137/220881321-3fe59366-10a5-4ab2-9267-11162573eead.png)
+![image](https://user-images.githubusercontent.com/111044137/220884357-4d0859bc-0f9d-47ec-b295-6655db3dae69.png)
+
 
 
 ✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 10 Anwendungsfällen ein; und einen PAP.
