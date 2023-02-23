@@ -14,9 +14,10 @@ Daisy: Ben Müller,John Broder, Brandon Spaqi, Christian Aeschlimann
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+In diesem Programmierprojekt programmieren wir einen Endless-Runner, bei dem man eine Pizza belegt, in dem man die richtigen Zutaten einsammelt. 
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+Wir wollen mithilfe von Unity einen Endless-Runner programmieren, bei dem man verschiedenen Hindernissen ausweichen muss und gleichzeitig eine Pizza macht, in dem man verschiedene Zutaten einsammeln muss. Wenn eine Pizza fertig belegt ist, bekommt man einen Pizzapunkt und fängt wieder mit einer neuen Pizza an. Während man rennt, fallen in regelmässigen Abständen Pizzaschaufeln vom Himmel, denen man dann ausweichen muss. Neben der exponentiell steigenden Geschwindigkeit des Users, erhöht sich auch die Geschwindigkeit, in dem die Schaufeln vom Himmel fallen. Falls der User eine Zutat zum zweiten Mal einsammelt, wird er «bestraft». Wir haben uns final für 3 Schwierigkeitsmodi entschieden. 
+
 
 ### 1.2 User Stories
 
