@@ -38,6 +38,8 @@ Wir wollen mithilfe von Unity einen Endless-Runner programmieren, bei dem man ve
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
+![image](https://user-images.githubusercontent.com/111044137/220881321-3fe59366-10a5-4ab2-9267-11162573eead.png)
+
 
 ✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 10 Anwendungsfällen ein; und einen PAP.
 
