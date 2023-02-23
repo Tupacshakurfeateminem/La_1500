@@ -20,12 +20,18 @@ Wir wollen mithilfe von Unity einen Endless-Runner programmieren, bei dem man ve
 
 
 ### 1.2 User Stories
-
-| US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
+| US-№ | Verbindlichkeit | Typ  | Beschreibung                      |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
-
+|   1  |Muss             |F     | Als ein Benutzer möchte ich dass, man endlos rennen kann, damit ich Spass habe. | 
+|   2  |Muss             |F     | Als ein Benutzer möchte ich dass, man von Pizzaschaufeln erschlagen werden kann, damit ich gestresst wird. |
+|   3  |Kann             |R     | Als ein Benutzer möchte ich dass, man gute Musik hört wird, damit ich länger konzentriert bleibe. |
+|   4  |Kann             |Q     | Als ein Benutzer möchte ich dass, man verschiedene Schwierigkeitsstufen auswählen kann, damit es auf mich anpassbar ist. |
+|   5  |Muss             |F     | Als ein Benutzer möchte ich dass, man Essen zubereiten kann, damit das Spiel einen Sinn hat. | 
+|   6  |Kann             |Q     | Als ein Benutzer möchte ich dass, man wenn man zu viel Tomatensauce aufnimmt die Sicht eingegrenzt wird, damit es schwerer wird. | 
+|   7  |Kann             |R     | Als ein Benutzer möchte ich dass, man Item aufsammeln kann, damit meine Pizza individuell ist. | 
+|   8  |Kann             |R     | Als ein Benutzer möchte ich dass, man im Shop sein Münzen loswerden kann, damit ich sie öfters sammle. | 
+|   9  |Muss             |Q     | Als ein Benutzer möchte ich dass, man Superitems aufsammeln kann, damit der Spielspass erhöht wird. | 
+|  10  |Muss             |F     | Als ein Benutzer möchte ich dass, man Hindernissen ausweichen muss, damit es eine Herausforderung ist. |
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
