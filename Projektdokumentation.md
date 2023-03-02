@@ -32,14 +32,31 @@ Wir wollen mithilfe von Unity einen Endless-Runner programmieren, bei dem man ve
 |   8  |Kann             |R     | Als ein Benutzer möchte ich dass, man im Shop sein Münzen loswerden kann, damit ich sie öfters sammle. | 
 |   9  |Muss             |Q     | Als ein Benutzer möchte ich dass, man Superitems aufsammeln kann, damit der Spielspass erhöht wird. | 
 |  10  |Muss             |F     | Als ein Benutzer möchte ich dass, man Hindernissen ausweichen muss, damit es eine Herausforderung ist. |
+|   11 | Kann            | Q    | Als ein Benutzer möchte ich dass, man ein schön gestaltetes Startmenü hat, damit man schon einen Vorgeschmack bekommt |
+|   12 |Kann             | R    | Als ein Benutzer möchte ich dass, es eine kleine Auswahl von Skins hat, damit man selber entscheiden kann wie man aussieht |
+|   13 | Muss            | Q    | Als ein Benutzer möchte ich dass, die Map passend gestaltet ist, damit es das Perfekte Feeling gibt |
+|   14 | Kann            | Q    | Als ein Benutzer möchte ich dass, es eine fixierte Sicht gibt, damit, man diese nicht aus Versehen verstellen kann |
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
+### 1.3 Testfälle
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |Spiel gestartet|Losrennen|Man kann endlos rennen|
+| 2.1  |Spiel gestartet|Losrennen|Pizzaschaufel fliegt auf einen runter|
+| 3.1  |Spiel starten|Im Startbildschirm warten|Es wird Musik gespielt|
+| 4.1  |Spiel gestartet|Auswahl der Schwierigkeiten| Der richtige Modus wird gestartet|
+| 5.1  |Spiel gestartet, Run begonnen|Man sammelt die Zutaten| Am Ende wird die Pizza gebacken|
+| 6.1  |Spiel gestartet, genug Tomatensauce | Man nimmt Tomatensauce auf| Die Sicht wird verschlechtert|
+| 7.1  |Spiel gestartet|Man rennt und sammelt die verschiedenen Items auf| Eine individuelle Pizza wird erstellt |
+| 8.1  |Spiel gestartet, Münzen gesammelt|Man klickt im Startbildschirm auf "Shop"| Man wird zum Ingame Shop weitergeleitet|
+| 9.1  |Spiel gestartet, Run gestartet|Super Item aufgesammelt|Man bekommt eine temporäre Superfähigkeit|
+| 10.1 |Spiel gestartet. Run gestartet|Ausweichen eines Hindernis|Man überlebt und rennt weiter|
+| 11.1 |  -  | Spiel starten  | Das Startmenü wird angezeigt |
+| 12.1 | Spiel starten, Shop öffnen |Skin kaufen| der neue Skin wird ausgewählt |
+| 13.1 | Spiel starten | Run starten | Ein passende Map wird gezeigt |
+| 14.1 | Spiel starten, Run gestartet | Versuchen die Kameraperspektive zu verstellen | Erfolglos, die Kamera bleibt da |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
