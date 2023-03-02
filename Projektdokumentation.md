@@ -55,7 +55,7 @@ Wir wollen mithilfe von Unity einen Endless-Runner programmieren, bei dem man ve
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
+| 1.A  | 9.02.2023|,         |              |               |
 | ...  |       |           |              |               |
 
 Total: 
