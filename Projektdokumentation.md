@@ -36,9 +36,9 @@ Wir wollen mithilfe von Unity einen Endless-Runner programmieren, bei dem man ve
 |   12 |Kann             | R    | Als ein Benutzer möchte ich dass, es eine kleine Auswahl von Skins hat, damit man selber entscheiden kann wie man aussieht |
 |   13 | Muss            | Q    | Als ein Benutzer möchte ich dass, die Map passend gestaltet ist, damit es das Perfekte Feeling gibt |
 |   14 | Kann            | Q    | Als ein Benutzer möchte ich dass, es eine fixierte Sicht gibt, damit, man diese nicht aus Versehen verstellen kann |
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
-### 1.3 Testfälle
+
+
 
 ### 1.3 Testfälle
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
@@ -58,7 +58,7 @@ Wir wollen mithilfe von Unity einen Endless-Runner programmieren, bei dem man ve
 | 13.1 | Spiel starten | Run starten | Ein passende Map wird gezeigt |
 | 14.1 | Spiel starten, Run gestartet | Versuchen die Kameraperspektive zu verstellen | Erfolglos, die Kamera bleibt da |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+
 
 ### 1.4 Diagramme
 ![image](https://user-images.githubusercontent.com/111044137/220881321-3fe59366-10a5-4ab2-9267-11162573eead.png)
