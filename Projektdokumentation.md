@@ -53,9 +53,25 @@ Wir wollen mithilfe von Unity einen Endless-Runner programmieren, bei dem man ve
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  | 9.02.2023|,         |              |               |
-| ...  |       |           |              |               |
-
+|1a| 09.03.2023|6| Grundgerüst der Map erstellen|90min|
+|1b|09.03.2023|8|  Eien Figur Programmieren|90|
+|1c|09.03.2023|l|Die animierte Figur zum laufen programmieren |60|
+|2a| 9.02.2023|2| Pizza schaufeln programmieren die vom Himmel fallen|90|
+|2b|09.02.2023|2|Pizza schaufel schaden berechnen.|90|
+|3a|09.03.2023|2|Musik raussuchen und ins Spiel einfügen|90|
+|4a|09.03.2023|2|schwierigkeitsstuffen erstellen|90|
+|5a|09.03.2023|2|Einzelne Zutaten programmieren die man beimdarüber gehen einsammeln kann|90
+|5b|09.03.2023|2|verschiedene Pizzen programmieren die man zubereiten kann|90|
+|6a|09.03.2023|2|Tomaten sauce erstellen und zufällig auf der Map verteilen|90|
+|6b|09.03.2023|2|Programmieren das ab einer gewissen anzahl Tomaten sauce die sicht eingeschränkt wird.|90|
+|7a|09.03.2023|2|mehrere Items erstellen die man beim darüber gehen einsammeln kann|90|
+|7b|09.03.2023|2|mehrere verschiedene Pizzen erstellen die man mit verschiedenen Zutaten zubereiten kann|90|
+|8a|09.03.2023|2|Münzen programmmieren die man beim darüber gehen einsammelt|90|
+|8b|09.03.2023|2|Einen Shop erstellen in dem man die Münzen ausgeben kann|90|
+|9a|09.03.2023|2|Superitems programmieren und zufällig verteilen|90|
+|9b|09.03.2023|2|Die einzelnen superfähigkeiten programmieren|90|
+|10a|09.03.2023|2|Hindernisse erstellen und auf der Map verteilen|90|
+|10b|09.03.2023|2|Programmieren das die Figur sich bewegen kann|90|
 Total: 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
