@@ -94,8 +94,7 @@ Total:
 
 
 ## 3 Entscheiden
-
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir haben uns am 09✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
 
 ## 4 Realisieren
 
@@ -114,7 +113,7 @@ Total:
 | ---- | ----- | -------- | ------ |
 | 1.1  |       |          |        |
 | ...  |       |          |        |
-
+Wir haben uns am 9.3 entschieden das unser Projekt 3D sein sollte.
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
 ### 5.2 Exploratives Testen
