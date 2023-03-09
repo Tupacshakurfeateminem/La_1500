@@ -7,7 +7,7 @@ Daisy: Ben Müller,John Broder, Brandon Spaqi, Christian Aeschlimann
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 23.02.2023| 0.0.1   | Heute haben wir uns unser Thema Pizza runner erfunden und einige Ideen darüber gesammelt, auserdem haben wir mit den User-Stories angefangen und das Pap gemacht.
-|       | 0.0.1     |Heute haben wir die Planung beendet und haben das Use Case Diagramm überarbeitet.|
+|02.03.2023| 0.0.1     |Heute haben wir die Planung beendet und haben das Use Case Diagramm überarbeitet.|
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
