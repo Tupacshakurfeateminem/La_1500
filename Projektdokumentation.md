@@ -1,6 +1,6 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
+
 
 Daisy: Ben Müller,John Broder, Brandon Spaqi, Christian Aeschlimann
 
@@ -64,7 +64,7 @@ Wir wollen mithilfe von Unity einen Endless-Runner programmieren, bei dem man ve
 ![image](https://user-images.githubusercontent.com/111044137/220881321-3fe59366-10a5-4ab2-9267-11162573eead.png)
 ![image](https://user-images.githubusercontent.com/111044137/222373448-4eded339-9682-43e2-b4cc-e55ee57d08b3.png)
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 10 Anwendungsfällen ein; und einen PAP.
+
 
 ## 2 Planen
 
@@ -91,9 +91,7 @@ Wir wollen mithilfe von Unity einen Endless-Runner programmieren, bei dem man ve
 |10b|30.03.2023|2|Programmieren das die Figur sich bewegen kann|90|
 Total: 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweiten User Story betrifft, hat also die Nummer `2.C`.
 
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
