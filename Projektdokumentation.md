@@ -8,7 +8,7 @@ Daisy: Ben Müller,John Broder, Brandon Spaqi, Christian Aeschlimann
 | ----- | ------- | ------------------------------------------------------------ |
 | 23.02.2023| 0.0.1   | Heute haben wir uns unser Thema Pizza runner erfunden und einige Ideen darüber gesammelt, auserdem haben wir mit den User-Stories angefangen und das Pap gemacht.
 |02.03.2023| 0.0.1     |Heute haben wir die Planung beendet und haben das Use Case Diagramm überarbeitet.|
-|       | 1.0.0   |                                                              |
+|09.03.2023|0.0.3| Heute haben wir uns mit unity vertraut gemcht und mehrere Arbeitspakete angefangen aber keins beendet da es immer wieder grosse Probleme mit Unity gab.|
 
 ## 1 Informieren
 
@@ -70,8 +70,8 @@ Wir wollen mithilfe von Unity einen Endless-Runner programmieren, bei dem man ve
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-|1a|09.03.2023|6|Grundgerüst der Map erstellen|90min|
-|1b|09.03.2023|8|Eine Figur Programmieren|90|
+|1a|09.03.2023|Müller,Broder|Grundgerüst der Map erstellen|90min|
+|1b|09.03.2023|Aeschliman,Spaki|Eine Figur Programmieren|90|
 |1c|09.03.2023|l|Die animierte Figur zum Laufen programmieren |45|
 |2a|09.03.2023|2| Pizza schaufeln programmieren, die vom Himmel fallen|45|
 |2b|09.03.2023|2|Pizzaschaufel schaden berechnen.|45|
