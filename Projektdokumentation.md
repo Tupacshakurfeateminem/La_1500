@@ -22,20 +22,20 @@ Wir wollen mithilfe von Unity einen Endless-Runner programmieren, bei dem man ve
 ### 1.2 User Stories
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                      |
 | ---- | --------------- | ---- | ---------------------------------- |
-|   1  |Muss             |F     | Als ein Benutzer möchte ich dass, man endlos rennen kann, damit ich Spass habe. | 
-|   2  |Muss             |F     | Als ein Benutzer möchte ich dass, man von Pizzaschaufeln erschlagen werden kann, damit ich gestresst wird. |
-|   3  |Kann             |R     | Als ein Benutzer möchte ich dass, man gute Musik hört wird, damit ich länger konzentriert bleibe. |
-|   4  |Kann             |Q     | Als ein Benutzer möchte ich dass, man verschiedene Schwierigkeitsstufen auswählen kann, damit es auf mich anpassbar ist. |
-|   5  |Muss             |F     | Als ein Benutzer möchte ich dass, man Essen zubereiten kann, damit das Spiel einen Sinn hat. | 
-|   6  |Kann             |Q     | Als ein Benutzer möchte ich dass, man wenn man zu viel Tomatensauce aufnimmt die Sicht eingegrenzt wird, damit es schwerer wird. | 
-|   7  |Kann             |R     | Als ein Benutzer möchte ich dass, man Item aufsammeln kann, damit meine Pizza individuell ist. | 
-|   8  |Kann             |R     | Als ein Benutzer möchte ich dass, man im Shop sein Münzen loswerden kann, damit ich sie öfters sammle. | 
-|   9  |Muss             |Q     | Als ein Benutzer möchte ich dass, man Superitems aufsammeln kann, damit der Spielspass erhöht wird. | 
-|  10  |Muss             |F     | Als ein Benutzer möchte ich dass, man Hindernissen ausweichen muss, damit es eine Herausforderung ist. |
-|   11 | Kann            | Q    | Als ein Benutzer möchte ich dass, man ein schön gestaltetes Startmenü hat, damit man schon einen Vorgeschmack bekommt |
-|   12 |Kann             | R    | Als ein Benutzer möchte ich dass, es eine kleine Auswahl von Skins hat, damit man selber entscheiden kann wie man aussieht |
-|   13 | Muss            | Q    | Als ein Benutzer möchte ich dass, die Map passend gestaltet ist, damit es das Perfekte Feeling gibt |
-|   14 | Kann            | Q    | Als ein Benutzer möchte ich dass, es eine fixierte Sicht gibt, damit, man diese nicht aus Versehen verstellen kann |
+|   1  |Muss             |F     | Als ein Benutzer möchte ich, dass man endlos rennen kann, damit ich Spass habe. | 
+|   2  |Muss             |F     | Als ein Benutzer möchte ich, dass man von Pizzaschaufeln erschlagen werden kann, damit ich gestresst wird. |
+|   3  |Kann             |R     | Als ein Benutzer möchte ich, dass man gute Musik hört wird, damit ich länger konzentriert bleibe. |
+|   4  |Kann             |Q     | Als ein Benutzer möchte ich, dass man verschiedene Schwierigkeitsstufen auswählen kann, damit es auf mich anpassbar ist. |
+|   5  |Muss             |F     | Als ein Benutzer möchte ich, dass man Essen zubereiten kann, damit das Spiel einen Sinn hat. | 
+|   6  |Kann             |Q     | Als ein Benutzer möchte ich, dass man, wenn man zu viel Tomatensauce aufnimmt, die Sicht eingegrenzt wird, damit es schwerer wird. | 
+|   7  |Kann             |R     | Als ein Benutzer möchte ich, dass man Item aufsammeln kann, damit meine Pizza individuell ist. | 
+|   8  |Kann             |R     | Als ein Benutzer möchte ich, dass man im Shop sein Münzen loswerden kann, damit ich sie öfters sammle. | 
+|   9  |Muss             |Q     | Als ein Benutzer möchte ich, dass man Superitems aufsammeln kann, damit der Spielspass erhöht wird. | 
+|  10  |Muss             |F     | Als ein Benutzer möchte ich, dass man Hindernissen ausweichen muss, damit es eine Herausforderung ist. |
+|   11 | Kann            | Q    | Als ein Benutzer möchte ich, dass man ein schön gestaltetes Startmenü hat, damit man schon einen Vorgeschmack bekommt |
+|   12 |Kann             | R    | Als ein Benutzer möchte ich, dass es eine kleine Auswahl von Skins hat, damit man selber entscheiden kann wie man aussieht |
+|   13 | Muss            | Q    | Als ein Benutzer möchte ich, dass die Map passend gestaltet ist, damit es das Perfekte Feeling gibt |
+|   14 | Kann            | Q    | Als ein Benutzer möchte ich, dass es eine fixierte Sicht gibt, damit, man diese nicht aus Versehen verstellen kann |
 
 
 
@@ -71,29 +71,29 @@ Wir wollen mithilfe von Unity einen Endless-Runner programmieren, bei dem man ve
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 |1a|09.03.2023|6|Grundgerüst der Map erstellen|90min|
-|1b|09.03.2023|8|Eien Figur Programmieren|90|
-|1c|09.03.2023|l|Die animierte Figur zum laufen programmieren |45|
-|2a|09.03.2023|2| Pizza schaufeln programmieren die vom Himmel fallen|45|
-|2b|09.03.2023|2|Pizza schaufel schaden berechnen.|45|
-|3a|06.04.2023|2|Musik raussuchen und ins Spiel einfügen|45|
-|4a|16.03.2023|2|schwierigkeitsstuffen erstellen|90|
-|5a|16.03.2023|2|Einzelne Zutaten programmieren die man beimdarüber gehen einsammeln kann|90|
-|5b|16.03.2023|2|verschiedene Pizzen programmieren die man zubereiten kann|45|
-|6a|23.03.2023|2|Tomaten sauce erstellen und zufällig auf der Map verteilen|45|
-|6b|23.03.2023|2|Programmieren das ab einer gewissen anzahl Tomaten sauce die sicht eingeschränkt wird.|45|
-|7a|23.03.2023|2|mehrere Items erstellen die man beim darüber gehen einsammeln kann|90|
-|7b|23.03.2023|2|mehrere verschiedene Pizzen erstellen die man mit verschiedenen Zutaten zubereiten kann|90|
-|8a|23.03.2023|2|Münzen programmmieren die man beim darüber gehen einsammelt|45|
-|8b|30.03.2023|2|Einen Shop erstellen in dem man die Münzen ausgeben kann|45|
+|1b|09.03.2023|8|Eine Figur Programmieren|90|
+|1c|09.03.2023|l|Die animierte Figur zum Laufen programmieren |45|
+|2a|09.03.2023|2| Pizza schaufeln programmieren, die vom Himmel fallen|45|
+|2b|09.03.2023|2|Pizzaschaufel schaden berechnen.|45|
+|3a|06.04.2023|2|Musik heraussuchen und ins Spiel einfügen|45|
+|4a|16.03.2023|2|Schwierigkeitsstufen erstellen|90|
+|5a|16.03.2023|2|Einzelne Zutaten programmieren, die man beim darüber gehen einsammeln kann|90|
+|5b|16.03.2023|2|verschiedene Pizzen programmieren, die man zubereiten kann|45|
+|6a|23.03.2023|2|Tomatensauce erstellen und zufällig auf der Map verteilen|45|
+|6b|23.03.2023|2|Programmieren das ab einer gewissen Anzahl Tomatensauce die Sicht eingeschränkt wird.|45|
+|7a|23.03.2023|2|mehrere Items erstellen, die man beim darüber gehen einsammeln kann|90|
+|7b|23.03.2023|2|mehrere verschiedene Pizzen erstellen, die man mit verschiedenen Zutaten zubereiten kann|90|
+|8a|23.03.2023|2|Münzen Programmmieren, die man beim darüber gehen einsammelt|45|
+|8b|30.03.2023|2|Einen Shop erstellen, in dem man die Münzen ausgeben kann|45|
 |9a|30.03.2023|2|Superitems programmieren und zufällig verteilen|45|
-|9b|30.03.2023|2|Die einzelnen superfähigkeiten programmieren|90|
+|9b|30.03.2023|2|Die einzelnen Superfähigkeiten programmieren|90|
 |10a|30.03.2023|2|Hindernisse erstellen und auf der Map verteilen|90|
 |10b|30.03.2023|2|Programmieren das die Figur sich bewegen kann|90|
 Total: 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
+✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweiten User Story betrifft, hat also die Nummer `2.C`.
 
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
+✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
