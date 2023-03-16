@@ -94,7 +94,7 @@ Total:
 
 
 ## 3 Entscheiden
-Wir haben uns am 09✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
 16.03.2023, 9:20 unser ganzer Prototyp ist abgestürzt. Wir müssen jetzt schauen ob wir denn wieder neu programmiert bekommen, allerdings wird das uns viel Zeit kosten.
 
 ## 4 Realisieren
