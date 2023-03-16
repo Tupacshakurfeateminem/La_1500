@@ -7,9 +7,9 @@ Daisy: Ben Müller,John Broder, Brandon Spaqi, Christian Aeschlimann
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 23.02.2023| 0.0.1   | Heute haben wir uns unser Thema Pizza runner erfunden und einige Ideen darüber gesammelt, auserdem haben wir mit den User-Stories angefangen und das Pap gemacht.
-|02.03.2023| 0.0.1     |Heute haben wir die Planung beendet und haben das Use Case Diagramm überarbeitet.|
+|02.03.2023| 0.0.2     |Heute haben wir die Planung beendet und haben das Use Case Diagramm überarbeitet.|
 |09.03.2023|0.0.3| Heute haben wir uns mit unity vertraut gemcht und mehrere Arbeitspakete angefangen aber keins beendet da es immer wieder grosse Probleme mit Unity gab.|
-
+|19.03.2023|0.0.4|Heute haben wir da weiter gemacht wo wir letztes Mal wegen der Fehler aufhören mussten. Ein Teil unserer Gruppe hat einen ersten Prototypen erstellt, während der andere Teil versuchte die alten Fehler zu beheben, oder versuchte z.B. eine Map in unseren Prototypen zu laden.|
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
@@ -104,11 +104,11 @@ Total:
 |1.A|09.03.2023|Müller,Broder|90min|180min|
 |1.B|09.03.2023|Aeschlimann,Spaqi|90min|120min|
 |1.C|09.03.2023|Aeschlimann,Spaqi|45min|120min|
-|2.A|16.03.2023|Müller,Broder|45min|-|
-|2.B|16.03.2023|Müller,Broder|45min|-|
-|3.A|16.03.2023|Müller,Broder|45min|-|
-|4.A|16.03.2023|Aeschlimann,Spaqi|90min|-|
-|5.A|23.03.2023|Aeschlimann,Spaqi|90min|-|
+|2.A|16.03.2023|Müller,Broder|45min|90min|
+|2.B|16.03.2023|Müller,Broder|45min|45min|
+|3.A|16.03.2023|Müller,Broder|45min|90min|
+|4.A|16.03.2023|Aeschlimann,Spaqi|90min|90min|
+|5.A|23.03.2023|Aeschlimann,Spaqi|90min|90min|
 |6.A|23.03.2023|Müller|45min|-|
 |6.B|23.03.2023|Broder|45min|-|
 |7.A|23.03.2023|Aeschlimann,Spaqi|90min|-|
