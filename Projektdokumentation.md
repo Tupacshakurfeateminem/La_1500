@@ -71,38 +71,54 @@ Wir wollen mithilfe von Unity einen Endless-Runner programmieren, bei dem man ve
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 |1a|09.03.2023|Müller,Broder|Grundgerüst der Map erstellen|90min|
-|1b|09.03.2023|Aeschliman,Spaki|Eine Figur Programmieren|90|
-|1c|09.03.2023|l|Die animierte Figur zum Laufen programmieren |45|
-|2a|09.03.2023|2| Pizza schaufeln programmieren, die vom Himmel fallen|45|
-|2b|09.03.2023|2|Pizzaschaufel schaden berechnen.|45|
-|3a|06.04.2023|2|Musik heraussuchen und ins Spiel einfügen|45|
-|4a|16.03.2023|2|Schwierigkeitsstufen erstellen|90|
-|5a|16.03.2023|2|Einzelne Zutaten programmieren, die man beim darüber gehen einsammeln kann|90|
-|5b|16.03.2023|2|verschiedene Pizzen programmieren, die man zubereiten kann|45|
-|6a|23.03.2023|2|Tomatensauce erstellen und zufällig auf der Map verteilen|45|
-|6b|23.03.2023|2|Programmieren das ab einer gewissen Anzahl Tomatensauce die Sicht eingeschränkt wird.|45|
-|7a|23.03.2023|2|mehrere Items erstellen, die man beim darüber gehen einsammeln kann|90|
-|7b|23.03.2023|2|mehrere verschiedene Pizzen erstellen, die man mit verschiedenen Zutaten zubereiten kann|90|
-|8a|23.03.2023|2|Münzen Programmmieren, die man beim darüber gehen einsammelt|45|
-|8b|30.03.2023|2|Einen Shop erstellen, in dem man die Münzen ausgeben kann|45|
-|9a|30.03.2023|2|Superitems programmieren und zufällig verteilen|45|
-|9b|30.03.2023|2|Die einzelnen Superfähigkeiten programmieren|90|
-|10a|30.03.2023|2|Hindernisse erstellen und auf der Map verteilen|90|
-|10b|30.03.2023|2|Programmieren das die Figur sich bewegen kann|90|
+|1b|09.03.2023|Aeschlimann,Spaqi|Eine Figur Programmieren|90|
+|1c|09.03.2023|Aeschlimann,Spaqi|Die animierte Figur zum Laufen programmieren |45|
+|2a|09.03.2023|Müller,Broder| Pizza schaufeln programmieren, die vom Himmel fallen|45|
+|2b|09.03.2023|Müller,Broder|Pizzaschaufel schaden berechnen.|45|
+|3a|06.04.2023|Müller,Broder|Musik heraussuchen und ins Spiel einfügen|45|
+|4a|16.03.2023|Aeschlimann,Spaqi|Schwierigkeitsstufen erstellen|90|
+|5a|16.03.2023|Aeschlimann,Spaqi|Einzelne Zutaten programmieren, die man beim darüber gehen einsammeln kann|90|
+|5b|16.03.2023|Müller,Broder|verschiedene Pizzen programmieren, die man zubereiten kann|45|
+|6a|23.03.2023|Müller|Tomatensauce erstellen und zufällig auf der Map verteilen|45|
+|6b|23.03.2023|Broder|Programmieren das ab einer gewissen Anzahl Tomatensauce die Sicht eingeschränkt wird.|45|
+|7a|23.03.2023|Aeschlimann,Spaqi|mehrere Items erstellen, die man beim darüber gehen einsammeln kann|90|
+|7b|23.03.2023|Müller,Broder|mehrere verschiedene Pizzen erstellen, die man mit verschiedenen Zutaten zubereiten kann|90|
+|8a|23.03.2023|Aeschlimann|Münzen Programmmieren, die man beim darüber gehen einsammelt|45|
+|8b|30.03.2023|Aeschlimann,Spaqi|Einen Shop erstellen, in dem man die Münzen ausgeben kann|45|
+|9a|30.03.2023|Müller,Broder|Superitems programmieren und zufällig verteilen|45|
+|9b|30.03.2023|Müller,Broder|Die einzelnen Superfähigkeiten programmieren|90|
+|10a|30.03.2023|Aeschlimann,Spaqi|Hindernisse erstellen und auf der Map verteilen|90|
+|10b|30.03.2023|Aeschliman,Spaqi|Programmieren das die Figur sich bewegen kann|90|
 Total: 
 
 
 
 ## 3 Entscheiden
 Wir haben uns am 09✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+16.03.2023, 9:20 unser ganzer Prototyp ist abgestürzt. Wir müssen jetzt schauen ob wir denn wieder neu programmiert bekommen, allerdings wird das uns viel Zeit kosten.
 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
-
+|1.A|09.03.2023|Müller,Broder|90min|180min|
+|1.B|09.03.2023|Aeschlimann,Spaqi|90min|120min|
+|1.C|09.03.2023|Aeschlimann,Spaqi|45min|120min|
+|2.A|16.03.2023|Müller,Broder|45min|-|
+|2.B|16.03.2023|Müller,Broder|45min|-|
+|3.A|16.03.2023|Müller,Broder|45min|-|
+|4.A|16.03.2023|Aeschlimann,Spaqi|90min|-|
+|5.A|23.03.2023|Aeschlimann,Spaqi|90min|-|
+|6.A|23.03.2023|Müller|45min|-|
+|6.B|23.03.2023|Broder|45min|-|
+|7.A|23.03.2023|Aeschlimann,Spaqi|90min|-|
+|7.B|23.03.2023|Aeschlimann,Spaqi|90min|-|
+|8.A|23.03.2023|Aeschlimann,Spaqi|45min|-|
+|8.B|30.03.2023|Aeschlimann,Spaqi|45min|-|
+|9.A|30.03.2023|Müller,Broder|45min|-|
+|9.B|30.03.2023|Müller,Broder|90min|-|
+|10.A|30.03.2023|Aeschlimann,Spaqi|45min|-|
+|10.B|30.03.2023|Aeschlimann,Spaqi|45min|-|
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
