@@ -70,45 +70,45 @@ Wir wollen mithilfe von Unity einen Endless-Runner programmieren, bei dem man ve
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-|1a|09.03.2023|Müller,Broder|Grundgerüst der Map erstellen|90min|
-|1b|09.03.2023|Aeschlimann,Spaqi|Eine Figur Programmieren|90|
-|1c|09.03.2023|Aeschlimann,Spaqi|Die animierte Figur zum Laufen programmieren |45|
-|2a|09.03.2023|Müller,Broder| Pizza schaufeln programmieren, die vom Himmel fallen|45|
-|2b|09.03.2023|Müller,Broder|Pizzaschaufel schaden berechnen.|45|
-|3a|06.04.2023|Müller,Broder|Musik heraussuchen und ins Spiel einfügen|45|
-|4a|16.03.2023|Aeschlimann,Spaqi|Schwierigkeitsstufen erstellen|90|
-|5a|16.03.2023|Aeschlimann,Spaqi|Einzelne Zutaten programmieren, die man beim darüber gehen einsammeln kann|90|
-|5b|16.03.2023|Müller,Broder|verschiedene Pizzen programmieren, die man zubereiten kann|45|
-|6a|23.03.2023|Müller|Tomatensauce erstellen und zufällig auf der Map verteilen|45|
-|6b|23.03.2023|Broder|Programmieren das ab einer gewissen Anzahl Tomatensauce die Sicht eingeschränkt wird.|45|
-|7a|23.03.2023|Aeschlimann,Spaqi|mehrere Items erstellen, die man beim darüber gehen einsammeln kann|90|
-|7b|23.03.2023|Müller,Broder|mehrere verschiedene Pizzen erstellen, die man mit verschiedenen Zutaten zubereiten kann|90|
-|8a|23.03.2023|Aeschlimann|Münzen Programmmieren, die man beim darüber gehen einsammelt|45|
-|8b|30.03.2023|Aeschlimann,Spaqi|Einen Shop erstellen, in dem man die Münzen ausgeben kann|45|
-|9a|30.03.2023|Müller,Broder|Superitems programmieren und zufällig verteilen|45|
-|9b|30.03.2023|Müller,Broder|Die einzelnen Superfähigkeiten programmieren|90|
-|10a|30.03.2023|Aeschlimann,Spaqi|Hindernisse erstellen und auf der Map verteilen|90|
-|10b|30.03.2023|Aeschliman,Spaqi|Programmieren das die Figur sich bewegen kann|90|
-Total: 
+|1a|09.03.2023|Müller,Broder|Grundgerüst der Map erstellen|4 AP|
+|1b|09.03.2023|Aeschlimann,Spaqi|Eine Figur Programmieren|4 AP|
+|1c|09.03.2023|Aeschlimann,Spaqi|Die animierte Figur zum Laufen programmieren |3 AP|
+|2a|09.03.2023|Müller,Broder| Pizza schaufeln programmieren, die vom Himmel fallen|3 AP|
+|2b|09.03.2023|Müller,Broder|Pizzaschaufel schaden berechnen.|2 AP|
+|3a|06.04.2023|Müller,Broder|Musik heraussuchen und ins Spiel einfügen|2 AP|
+|4a|16.03.2023|Aeschlimann,Spaqi|Schwierigkeitsstufen erstellen|4 AP|
+|5a|16.03.2023|Aeschlimann,Spaqi|Einzelne Zutaten programmieren, die man beim darüber gehen einsammeln kann|4 AP|
+|5b|16.03.2023|Müller,Broder|verschiedene Pizzen programmieren, die man zubereiten kann|4 AP|
+|6a|23.03.2023|Müller|Tomatensauce erstellen und zufällig auf der Map verteilen|4 AP|
+|6b|23.03.2023|Broder|Programmieren das ab einer gewissen Anzahl Tomatensauce die Sicht eingeschränkt wird.|4 AP|
+|7a|23.03.2023|Aeschlimann,Spaqi|mehrere Items erstellen, die man beim darüber gehen einsammeln kann|4 AP|
+|7b|23.03.2023|Müller,Broder|mehrere verschiedene Pizzen erstellen, die man mit verschiedenen Zutaten zubereiten kann|4 AP|
+|8a|23.03.2023|Aeschlimann|Münzen Programmmieren, die man beim darüber gehen einsammelt|3 AP|
+|8b|30.03.2023|Aeschlimann,Spaqi|Einen Shop erstellen, in dem man die Münzen ausgeben kann|3 AP|
+|9a|30.03.2023|Müller,Broder|Superitems programmieren und zufällig verteilen|2 AP|
+|9b|30.03.2023|Müller,Broder|Die einzelnen Superfähigkeiten programmieren|4 AP|
+|10a|30.03.2023|Aeschlimann,Spaqi|Hindernisse erstellen und auf der Map verteilen|4 AP|
+|10b|30.03.2023|Aeschliman,Spaqi|Programmieren das die Figur sich bewegen kann|4 AP|
+Total: 64 AP
 
 
 
 ## 3 Entscheiden
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
-16.03.2023, 9:20 unser ganzer Prototyp ist abgestürzt. Wir müssen jetzt schauen ob wir denn wieder neu programmiert bekommen, allerdings wird das uns viel Zeit kosten.
-
+09.03.2023, 10:00, Wir hatten verschiedenste Fehler und Bugs in Unity. Unser Projekt stellt sich als schwieriger heraus, als wir es uns vorgestellt haben. 
+16.03.2023, 9:20, Unser ganzer Prototyp ist abgestürzt. Wir müssen jetzt schauen ob wir diesen wieder neu programmieren können, allerdings wird uns das viel Zeit kosten.
+23.03.2023, 9:30, Unser Prototyp steht zwar wieder, ist aber immernoch lange nicht fertig (keine Map, Hindernisse)
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-|1.A|09.03.2023|Müller,Broder|90min|180min|
+|1.A|09.03.2023|Müller,Broder|90min|240min|
 |1.B|09.03.2023|Aeschlimann,Spaqi|90min|120min|
 |1.C|09.03.2023|Aeschlimann,Spaqi|45min|120min|
-|2.A|16.03.2023|Müller,Broder|45min|90min|
-|2.B|16.03.2023|Müller,Broder|45min|45min|
-|3.A|16.03.2023|Müller,Broder|45min|90min|
-|4.A|16.03.2023|Aeschlimann,Spaqi|90min|90min|
-|5.A|23.03.2023|Aeschlimann,Spaqi|90min|90min|
+|2.A|16.03.2023|Müller,Broder|45min|-|
+|2.B|16.03.2023|Müller,Broder|45min|-|
+|3.A|16.03.2023|Müller,Broder|45min|-|
+|4.A|16.03.2023|Aeschlimann,Spaqi|90min|-|
+|5.A|23.03.2023|Aeschlimann,Spaqi|90min|-|
 |6.A|23.03.2023|Müller|45min|-|
 |6.B|23.03.2023|Broder|45min|-|
 |7.A|23.03.2023|Aeschlimann,Spaqi|90min|-|
@@ -119,7 +119,7 @@ Total:
 |9.B|30.03.2023|Müller,Broder|90min|-|
 |10.A|30.03.2023|Aeschlimann,Spaqi|45min|-|
 |10.B|30.03.2023|Aeschlimann,Spaqi|45min|-|
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
