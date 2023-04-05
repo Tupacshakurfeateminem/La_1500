@@ -125,23 +125,24 @@ Total: 64 AP
 
 ### 5.1 Testprotokoll
 
-| TC-№ | Datum | Resultat | Tester |
-| ---- | ----- | -------- | ------ |
-| 1.1  | 03.04.23      | Funktioniert         | Spaqi       |
-| 2.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |
-| 3.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |
-| 4.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |
-| 5.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |
-| 6.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |
-| 7.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |
-| 8.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |
-| 9.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |
-| 10.1  | 03.04.23      | Funktioniert         | Spaqi       |
-| 11.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |
-| 12.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |
-| 13.1  | 03.04.23      | Funktioniert         | Spaqi       |
-| 14.1  | 03.04.23      | Funktioniert         | Spaqi       |
-| ...  |       |          |        |
+| TC-№ | Datum | Resultat | Tester | Fazit |
+| ---- | ----- | -------- | ------ | |
+| 1.1  | 03.04.23      | Funktioniert         | Spaqi       | |
+| 2.1  | 03.04.23      | Funktioniert nicht         | Spaqi       | |
+| 3.1  | 03.04.23      | Funktioniert nicht         | Spaqi       | |
+| 4.1  | 03.04.23      | Funktioniert nicht         | Spaqi       | |
+| 5.1  | 03.04.23      | Funktioniert nicht         | Spaqi       | |
+| 6.1  | 03.04.23      | Funktioniert nicht         | Spaqi       | |
+| 7.1  | 03.04.23      | Funktioniert nicht         | Spaqi       | |
+| 8.1  | 03.04.23      | Funktioniert nicht         | Spaqi       | |
+| 9.1  | 03.04.23      | Funktioniert nicht         | Spaqi       | |
+| 10.1  | 03.04.23      | Funktioniert         | Spaqi       | |
+| 11.1  | 03.04.23      | Funktioniert nicht         | Spaqi       | |
+| 12.1  | 03.04.23      | Funktioniert nicht         | Spaqi       | |
+| 13.1  | 03.04.23      | Funktioniert         | Spaqi       | |
+| 14.1  | 03.04.23      | Funktioniert         | Spaqi       | |
+| ...  |       |          |        | |
+
 Wir haben uns am 9.3 entschieden das unser Projekt 3D sein sollte.
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
