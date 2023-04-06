@@ -1,4 +1,5 @@
 # Lern-Bericht
+Daisy: Ben Müller, John Broder, Brandon Spaqi, Christian Aeschlimann
 ✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
 
 ## Einleitung
