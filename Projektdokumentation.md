@@ -136,12 +136,12 @@ Total: 64 AP
 | 7.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |- |
 | 8.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |- |
 | 9.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |- |
-| 10.1  | 03.04.23      | Funktioniert         | Spaqi       |- |
+| 10.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |- |
 | 11.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |- |
 | 12.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |- |
-| 13.1  | 03.04.23      | Funktioniert         | Spaqi       |- |
-| 14.1  | 03.04.23      | Funktioniert         | Spaqi       |- |
-| ...  |-       |-          | -       |- |
+| 13.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |- |
+| 14.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |- |
+
 
 Wir haben uns am 9.3 entschieden das unser Projekt 3D sein sollte.
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
