@@ -95,7 +95,9 @@ Total: 64 AP
 
 ## 3 Entscheiden
 09.03.2023, 10:00, Wir hatten verschiedenste Fehler und Bugs in Unity. Unser Projekt stellt sich als schwieriger heraus, als wir es uns vorgestellt haben. 
+
 16.03.2023, 9:20, Unser ganzer Prototyp ist abgestürzt. Wir müssen jetzt schauen ob wir diesen wieder neu programmieren können, allerdings wird uns das viel Zeit kosten.
+
 23.03.2023, 9:30, Unser Prototyp steht zwar wieder, ist aber immernoch lange nicht fertig (keine Map, Hindernisse)
 ## 4 Realisieren
 
@@ -125,35 +127,25 @@ Total: 64 AP
 
 ### 5.1 Testprotokoll
 
-| TC-№ | Datum | Resultat | Tester | Fazit |
-| ---- | ----- | -------- | ------ |-|
-| 1.1  | 03.04.23      | Funktioniert         | Spaqi       |- |
-| 2.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |- |
-| 3.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |- |
-| 4.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |- |
-| 5.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |- |
-| 6.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |- |
-| 7.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |- |
-| 8.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |- |
-| 9.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |- |
-| 10.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |- |
-| 11.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |- |
-| 12.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |- |
-| 13.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |- |
-| 14.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |- |
+| TC-№ | Datum | Resultat | Tester |
+| ---- | ----- | -------- | ------ |
+| 1.1  | 03.04.23      | Funktioniert         | Spaqi       |
+| 2.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |
+| 3.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |
+| 4.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |
+| 5.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |
+| 6.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |
+| 7.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |
+| 8.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |
+| 9.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |
+| 10.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |
+| 11.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |
+| 12.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |
+| 13.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |
+| 14.1  | 03.04.23      | Funktioniert nicht         | Spaqi       |
 
+Fazit - Wir konnten kein Funktionstüchtiges Runner-Game mit Unity erstellen.
 
-Wir haben uns am 9.3 entschieden das unser Projekt 3D sein sollte.
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
